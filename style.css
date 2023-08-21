@@ -25,4 +25,5 @@ h1 {
 .paragraph-4 {
    font-size: 24pt;
    text-shadow: 3px -4px 5px green;
+   text-align: center;
 }
